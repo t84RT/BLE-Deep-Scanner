@@ -31,7 +31,7 @@ v10.0 是项目迄今为止**功能最丰富、体系最完整**的版本，在 
 
 ### 主界面 — 扫描列表
 
-![主界面扫描列表](https://github.com/t84RT/BLE-Deep-Scanner/blob/main/gui%E6%88%AA%E5%9B%BE/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260724103626_1413_16.png)
+![主界面扫描列表](https://github.com/t84RT/BLE-Deep-Scanner/blob/main/gui%E6%88%AA%E5%9B%BE/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260724105431_1419_16.png)
 
 主界面采用多标签页布局，默认显示**扫描列表**标签页。表格中实时展示捕获到的 BLE 设备，包含时间戳、MAC 地址、MAC 类型/厂商、协议类型、RSSI 强度、估算距离等关键信息。顶部工具栏提供了启动/停止扫描、保存数据、导出广播帧、导出 PCAP、加载厂商数据库等核心操作入口。
 
